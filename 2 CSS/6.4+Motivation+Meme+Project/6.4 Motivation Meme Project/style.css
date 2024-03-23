@@ -1,0 +1,29 @@
+* {
+    background: black;
+}
+
+h1 {
+    font-family: "Regular Libre Baskerville";
+    color: white;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    border: 5px solid white;
+    margin-left: 100px;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.text {
+    color: white;
+    text-align: center;
+}
+
+div[id="1"]{
+    margin: auto;
+}
